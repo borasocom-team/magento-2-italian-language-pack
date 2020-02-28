@@ -3,7 +3,6 @@
   "description": "Italian language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
   "require": {
-    "mageplaza/module-core": "^1.3.13"
   },
   "type": "magento2-language",
   "minimum-stability": "dev",
